@@ -1,18 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>NETCAD PARSEL SORGU İNDİR</title>
-  <meta charset="UTF-8">
-  <meta name="description" content="NETCAD">
-  <meta name="keywords" content="NETCAD">
-  <meta name="author" content="Umut Birkış">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-</head>
-<body>
-
-
-
 
 <?php
 
@@ -47,5 +32,3 @@ echo $ekranayazdir[0];
 ?>
 
 
-</body>
-</html>
